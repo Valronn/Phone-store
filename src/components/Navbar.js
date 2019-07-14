@@ -21,7 +21,7 @@ export default class Navbar extends React.Component {
 			</ul>
 			<Link to='/cart' className='ml-auto'>
 			<ButtonContainer>
-			My cart<span className='mr-2'><i className='fas fa-cart-plus'/></span>
+			My cart<span className='mr-2'><i className='fas fa-shopping-cart'/></span>
 			</ButtonContainer></Link>
 		</NavWrapper>
 		);
